@@ -1,16 +1,5 @@
-requirements = """pandas
+streamlit
+pandas
 numpy
 scikit-learn
-imbalanced-learn
-tensorflow
-shap
 joblib
-streamlit
-matplotlib
-seaborn
-"""
-
-with open("requirements.txt", "w") as f:
-    f.write(requirements)
-
-print("requirements.txt created successfully.")

@@ -1,0 +1,18 @@
+__pycache__/
+.ipynb_checkpoints/
+venv/
+.venv/
+.env
+.vscode/
+.idea/
+
+# Dataset
+data/application_train.csv
+
+# Python cache
+*.pyc
+*.pyo
+*.pyd
+
+# Logs
+*.log
